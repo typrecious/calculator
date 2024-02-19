@@ -16,6 +16,7 @@
     color: grey;
     text-align: right;
     padding: 0 20px;
+    height: 18px;
 }
 
 .display{
@@ -24,6 +25,7 @@
     color: black;
     text-align: right;
     padding: 0 20px;
+    height: 38px;
 }
 
 .buttons{
